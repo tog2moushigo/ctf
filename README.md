@@ -1,6 +1,12 @@
-# Attention: This repository contains writeups so be attentive to spoilers!!
+# ctf
+
+## Attention
+
+<font color="Red">This repository contains writeups so be attentive to spoilers !!</font>
+
 ## Structure of directories
-```
+
+```text
 ctf
 |-(CTF-title)
   |-(year: if necessary)
@@ -16,7 +22,8 @@ ctf
 
 ```
 
-# Details
+## Details
+
 This is the record that I challenged CTF.
 If you have already gotten flags and want to know my ways of solving them, this repository is the best.
 
