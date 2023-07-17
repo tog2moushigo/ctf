@@ -2,7 +2,7 @@
 
 ## Attention
 
-<font color="Red">This repository contains writeups so be attentive to spoilers !!</font>
+This repository contains writeups so be attentive to spoilers !!
 
 ## Structure of directories
 
